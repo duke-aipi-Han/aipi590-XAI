@@ -1,0 +1,2 @@
+# packages not installed by default in colab
+pygam==0.12.0
