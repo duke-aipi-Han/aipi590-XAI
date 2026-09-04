@@ -1,2 +1,2 @@
-# packages not installed by default in colab
+# packages not installed by default in colab; Use ../requirements.txt for local environment
 pygam==0.12.0
