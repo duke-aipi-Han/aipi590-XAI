@@ -1,2 +1,4 @@
 .DS_Store
 assignments/xai_decathlon.md
+data/
+saved_models/
